@@ -1,0 +1,13 @@
+
+.boundary{
+    position: absolute;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    cursor:pointer ;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
